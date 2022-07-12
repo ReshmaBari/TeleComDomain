@@ -52,6 +52,7 @@ public class KiteHomePage {
 				userName.click();
 				Thread.sleep(1000);
 				logOutBtn.click();
+				System.out.println("add same command");
 			}
 
 
